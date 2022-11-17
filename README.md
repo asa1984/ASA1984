@@ -1,4 +1,14 @@
-### Hi there 👋
+# Bio
+
+I'm a student at NIT-Sendai Colleage(KOSEN).
+I prefer to develop web frontend.
+
+# Favorite Stack
+
+- TypeScript
+- React
+- Deno
+- Fresh
 
 <!--
 **ASA1984/ASA1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
