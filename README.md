@@ -10,6 +10,9 @@ I prefer to develop web frontend.
 - Deno
 - Fresh
 
+## Learning
+- Nix & NixOS
+
 <!--
 **ASA1984/ASA1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
