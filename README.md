@@ -1,14 +1,10 @@
-# Profile
+## Bio
 
-I'm a student at NIT-Sendai Colleage(KOSEN).
-I prefer to develop web frontend.
+|key|value|
+|-|-|
+|👾 Name|Asahi Sato|
+|🏫 Status|[SNCT, RT3](https://www.sendai-nct.ac.jp/department/course2-1/)|
+|❤️ Like|TypeScript, Deno, Nix|
 
-## Favorite Stack
-
-- TypeScript
-- React
-- Deno
-- Fresh
-
-### Learning
-- Nix & NixOS
+## Env
+> ___BTW, I use NixOS___
