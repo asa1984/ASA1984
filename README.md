@@ -1,3 +1,17 @@
-## Language
+```toml
+[name]
+letter        = "asa1984"
+pronunciation = ["アサヒ", "[asaçi]"]
+meaning       = "My first name + George Orwell's '1984'"
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asa1984&layout=compact&hide=python&disable_animations=true&theme=github_dark)
+[profile]
+interests = [
+  "Web",
+  "TypeScript",
+  "Rust",
+  "Nix",
+  "Type system",
+  "Movies",
+  "Sci-Fi novels",
+]
+```
